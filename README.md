@@ -77,7 +77,7 @@ NEUROGLOVE combines AI algorithms, sensors, wireless communication, and gesture 
 ## 📸 Project Media
 
 ![Project Screenshot](neuroglove.png)  
-> Add demo videos or GIFs if available for extra impact
+
 
 ---
 
